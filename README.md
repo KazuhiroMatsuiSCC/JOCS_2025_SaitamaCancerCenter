@@ -1,2 +1,2 @@
 # JOCS_2025_SaitamaCancerCenter
-Dataset used for poster presentation at the Japanese Onco-Cardiology Society 2025 (JOCS 2025).
+Supplimental data for poster presentation at the Japanese Onco-Cardiology Society 2025 (JOCS 2025).
